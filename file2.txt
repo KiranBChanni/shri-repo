@@ -1,7 +1,0 @@
-apple
-ball
-cat
-dog
-
-elephant
-fish
